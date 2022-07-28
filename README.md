@@ -4,7 +4,7 @@ This is a flutter based modern messaging app where users can sign up and log in 
 
 It uses Firebase Technology(It uses  Firebase authentication package which equips this app.)
 
-One of the first simple apps I created while on my journey to learn flutter.
+
 
 
 A few resources :
