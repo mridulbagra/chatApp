@@ -2,8 +2,8 @@
   "project_info": {
     "project_number": "433618103149",
     "firebase_url": "https://flash-chat-a66e4.firebaseio.com",
-    "project_id": "flash-chat-a66e4",
-    "storage_bucket": "flash-chat-a66e4.appspot.com"
+    "project_id": "chatApp-a66e4",
+    "storage_bucket": "chatApp-a66e4.appspot.com"
   },
   "client": [
     {
