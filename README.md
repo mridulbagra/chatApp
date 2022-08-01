@@ -1,6 +1,6 @@
 A new Flutter application for chatting using Firebase.
 
-This is a flutter based modern messaging app where users can sign up and log in to chat with their friends, family, colleagues among groups with enriched User-Experience.
+This is a flutter based modern messaging app where users can "sign up" and "log in" to chat with their friends, family, colleagues among groups with enriched User-Experience.
 
 It uses Firebase Technology(It uses  Firebase authentication package which equips this app.)
 
