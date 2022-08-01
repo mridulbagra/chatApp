@@ -1,7 +1,7 @@
 {
   "project_info": {
     "project_number": "433618103149",
-    "firebase_url": "https://flash-chat-a66e4.firebaseio.com",
+    "firebase_url": "https://chatAppt-a66e4.firebaseio.com",
     "project_id": "chatApp-a66e4",
     "storage_bucket": "chatApp-a66e4.appspot.com"
   },
@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:433618103149:android:3e19b516d9b75d43450864",
         "android_client_info": {
-          "package_name": "com.example.flash_chat"
+          "package_name": "com.example.chatApp"
         }
       },
       "oauth_client": [
