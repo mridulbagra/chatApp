@@ -1,7 +1,7 @@
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:flash_chat/constants.dart';
-import 'package:flash_chat/screens/chat_screen.dart';
-import 'package:flash_chat/widgets/round_button.dart';
+import 'package:chatApp/constants.dart';
+import 'package:chatApp/screens/chat_screen.dart';
+import 'package:chatApp/widgets/round_button.dart';
 import 'package:flutter/material.dart';
 import 'package:modal_progress_hud/modal_progress_hud.dart';
 
