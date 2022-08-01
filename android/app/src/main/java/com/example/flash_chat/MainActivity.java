@@ -1,4 +1,4 @@
-package com.example.flash_chat;
+package com.example.chatApp;
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity;
